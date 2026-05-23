@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Archero 2 Builder",
+    "slug": "archero2-builder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#111122"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#111122"
+      },
+      "package": "com.archero2.builder"
+    },
+    "platforms": ["android"]
+  }
+}
